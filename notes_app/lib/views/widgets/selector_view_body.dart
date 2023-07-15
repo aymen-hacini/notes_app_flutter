@@ -1,7 +1,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:notes_app/views/widgets/notes_view_bar.dart';
+
 import 'package:notes_app/views/widgets/selector_list_view.dart';
 
 

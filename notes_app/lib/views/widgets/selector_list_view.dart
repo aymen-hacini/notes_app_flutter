@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:notes_app/views/widgets/selector_item.dart';
 
-import 'custom_note_item.dart';
+
 class Selectorlistview extends StatelessWidget {
   const Selectorlistview({super.key});
 

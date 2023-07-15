@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:notes_app/views/notes_view.dart';
+
 import 'package:notes_app/views/selector_view.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class NotesApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(brightness: Brightness.dark, fontFamily: 'Ubuntu'),
       
-      home: const Selectorview(), 
+      home: const NotesView(), 
     );
   }
 }
